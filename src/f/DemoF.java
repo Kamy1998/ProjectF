@@ -13,4 +13,8 @@ public class DemoF {
 		System.out.println(a + b);
 	}
 
+	public static void getMessage(){
+		System.out.println("I got this")
+	}
+
 }
